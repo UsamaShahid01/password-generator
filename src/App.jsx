@@ -62,7 +62,8 @@ function App() {
       <div className='w-full max-w-md mx-auto shadow-md
 rounded-lg px-4 my-8 text-orange-500 bg-gray-800'>
 
-        <h1 className='text-white text-center my-6'>Password Generator
+        <h1 className='text-white text-center my-6'>Password Generate
+          hahahahahahaha
 
         </h1>
 
